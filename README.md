@@ -31,7 +31,7 @@ Installation
 
     sh
 
-git clone https://github.com/yourusername/network-sniffer-logger.git
+git clone https://github.com/yunus-EmreX/loggerX.git
 cd network-sniffer-logger
 
 Install required Python libraries:
