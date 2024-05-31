@@ -32,7 +32,7 @@ Installation
     sh
 
 git clone https://github.com/yunus-EmreX/loggerX.git
-cd network-sniffer-logger
+cd loggerX
 
 Install required Python libraries:
 
@@ -50,7 +50,7 @@ Run the script with root privileges:
 
 sh
 
-sudo python3 network_sniffer.py
+sudo python3 sniffer.py
 
 The script will start monitoring network traffic and send logs to the specified Discord webhook.
 How It Works
